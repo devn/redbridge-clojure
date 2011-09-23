@@ -1,0 +1,1 @@
+{:ruby-version "1.9"}
